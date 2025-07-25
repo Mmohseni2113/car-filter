@@ -20,10 +20,10 @@ nest_asyncio.apply()
 app = Flask(__name__)
 
 # تنظیمات تلگرام
-API_ID = 1234567  # API ID خودت
-API_HASH = 'a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p'  # API Hash خودت
-PHONE = '+989376897799'  # شماره تلفنت
-channel_list = ['autosamavati', 'jahangiri0021', 'tamasha_car', 'sourenacars', 'autokhass']
+API_ID =
+API_HASH = 
+PHONE = 
+channel_list = 
 
 # بارگذاری مدل زبان فارسی spaCy
 nlp = spacy.load("fa_core_news_sm")
